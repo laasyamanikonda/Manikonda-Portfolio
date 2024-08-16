@@ -1,0 +1,79 @@
+html {
+  height: 200%;
+  width: 100%;
+  background: linear-gradient(#f5e3e0, #e8b4bc, #d282a6);
+}
+
+h1 {
+  text-align: center;
+  font-family: Verdana;
+
+}
+h3{
+    font-family: Verdana;
+
+}
+h4{
+    font-family: Verdana;
+
+}
+li{
+  font-family: Verdana;
+}
+.img{
+  height: 65%;
+  width: 65%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom:15px;
+  padding:10px
+}
+
+
+.img2{
+  height: 40%;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom:15px;
+  padding:10px
+}
+
+.img3{
+  height: 20%;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom:15px;
+  padding:10px
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #b04540;
+}
+
+nav li {
+  float: left;
+  font-family: Verdana;
+}
+
+nav li a {
+  display: block;
+  color: ##ffc800;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+/* Change the link color to #111 (black) on hover */
+ nav li a:hover {
+  background-color: #A3EADA;
+}
+
